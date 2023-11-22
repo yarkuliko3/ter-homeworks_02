@@ -15,3 +15,9 @@
 - ответы на вопросы.
 
 ### Ответ 1
+![](https://github.com/yarkuliko3/ter-homeworks_02/blob/main/02_1.png?raw=true)
+![](https://github.com/yarkuliko3/ter-homeworks_02/blob/main/02_01.png?raw=true)
+- Параметр ```preemptible = true``` делает машину прерываемой, такие машины дешевле. 
+- Параметр ```core_fraction=5``` позволяет задать базовую производительность ядра, чем ниже производительность, тем ниже стоимость такой машины.
+
+
